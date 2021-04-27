@@ -1,2 +1,2 @@
-# C21-isTouching
-A more defined function for isTouching and creation of a library
+# p5.play-boilerplate
+Boiler plate for p5.play
